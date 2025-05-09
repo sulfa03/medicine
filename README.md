@@ -1,0 +1,2 @@
+# medicine
+speech recognition project
